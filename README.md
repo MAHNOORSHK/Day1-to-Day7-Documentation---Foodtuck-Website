@@ -43,9 +43,9 @@ npm install
 
 ### 3. Setup Environment Variables
 Create a .env.local file and add the following:
-SANITY_PROJECT_ID=<Your Sanity Project ID>
-SANITY_DATASET=<Your Sanity Dataset>
-SANITY_API_TOKEN=<Your Sanity API Token>
+- SANITY_PROJECT_ID=<Your Sanity Project ID>
+- SANITY_DATASET=<Your Sanity Dataset>
+- SANITY_API_TOKEN=<Your Sanity API Token>
 
 ### 4. Run the Development Server
 npm run dev
@@ -61,5 +61,6 @@ If you have any questions or suggestions, feel free to reach out:
 - GitHub Profile: MAHNOORSHK
 - Email: mahnoorshaikh1066@gmail.com
 - LinkedIn: https://www.linkedin.com/in/mahnoor-shaikh/
+  
 Thank you for visiting the AS-Food Document repository! We hope you find it helpful and inspiring!
 
