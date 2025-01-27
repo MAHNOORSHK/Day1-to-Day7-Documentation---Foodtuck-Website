@@ -32,3 +32,34 @@ FoodTuck provides a seamless experience for users to explore and purchase food i
    - Products added to the cart are managed in the state.
    - Quantity adjustments and total price updates are reflected in real-time.
    - Checkout requires form validation before submission.
+
+## 🚀 **How to Run Locally**
+### 1. Clone the Repository
+git clone https://github.com/MAHNOORSHK/Hackathon-3-Done.git
+
+### 2. Install Dependencies
+cd FoodTuck
+npm install
+
+### 3. Setup Environment Variables
+Create a .env.local file and add the following:
+SANITY_PROJECT_ID=<Your Sanity Project ID>
+SANITY_DATASET=<Your Sanity Dataset>
+SANITY_API_TOKEN=<Your Sanity API Token>
+
+### 4. Run the Development Server
+npm run dev
+The application will be available at http://localhost:3000.
+
+### 🤝 **Contributions**
+Contributions, issues, and feature requests are welcome!
+Feel free to open a pull request or create an issue.
+
+### **Contact**
+If you have any questions or suggestions, feel free to reach out:
+
+GitHub Profile: MAHNOORSHK
+Email: mahnoorshaikh1066@gmail.com
+LinkedIn: https://www.linkedin.com/in/mahnoor-shaikh/
+Thank you for visiting the AS-Food Document repository! We hope you find it helpful and inspiring!
+
