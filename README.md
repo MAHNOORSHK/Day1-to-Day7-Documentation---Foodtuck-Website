@@ -17,3 +17,18 @@ FoodTuck provides a seamless experience for users to explore and purchase food i
    - Upon clicking the "Proceed to Checkout" button, users are directed to the **Checkout Form**, which must be filled completely before submission.
 6. **Dynamic Routing:**  
    - Detail pages use dynamic routes based on the product ID.
+  
+## 🔗 **How It Works**
+1. **Backend (Sanity.io)**:
+   - Products and their details are managed in Sanity.
+   - Data is fetched dynamically using Sanity's APIs.
+
+2. **Frontend (Next.js + Tailwind CSS)**:
+   - The Shop page dynamically renders all available products.
+   - Product Detail pages fetch product-specific details based on the product ID.
+   - Related products are displayed using a filter query.
+
+3. **Cart and Checkout**:
+   - Products added to the cart are managed in the state.
+   - Quantity adjustments and total price updates are reflected in real-time.
+   - Checkout requires form validation before submission.
