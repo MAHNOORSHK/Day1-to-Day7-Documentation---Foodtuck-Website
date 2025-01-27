@@ -58,8 +58,8 @@ Feel free to open a pull request or create an issue.
 ### **Contact**
 If you have any questions or suggestions, feel free to reach out:
 
-GitHub Profile: MAHNOORSHK
-Email: mahnoorshaikh1066@gmail.com
-LinkedIn: https://www.linkedin.com/in/mahnoor-shaikh/
+- GitHub Profile: MAHNOORSHK
+- Email: mahnoorshaikh1066@gmail.com
+- LinkedIn: https://www.linkedin.com/in/mahnoor-shaikh/
 Thank you for visiting the AS-Food Document repository! We hope you find it helpful and inspiring!
 
